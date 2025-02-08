@@ -27,12 +27,10 @@
 
 # About Me
 
-🔹 Currently working as a Data-Driven Project Engineer at Krislite Pte Ltd, Singapore, leveraging analytics to optimize project execution, resource allocation, and cost management. </br>
-🔹 Passionate about data-driven decision-making, business intelligence, and process optimization. </br>
+🔹 Data Analyst with 10+ years of experience in project management and data-driven decision-making. </br>
+🔹 Skilled in SQL, Python, Tableau and Power BI for analyzing large datasets, optimizing processes, and uncovering actionable insights. </br>
 🔹 Recognized for crafting compelling narratives and fostering cross-functional collaboration among vendors, management, and clients to secure tenders and achieve project success. </br> 
-🔹 Skilled in Python, SQL, Tableau, Power BI, Excel, and statistical analysis to extract insights and drive business improvements. </br>
-🔹 Experienced in RFM analysis, customer segmentation, sales forecasting, and energy consumption analysis. </br>
-🔹 Committed to optimizing processes and supporting data-driven business decisions through analytical excellence. </br>
+🔹 Seeking a role where I can leverage data analytics to drive business growth and efficiency. </br>
 
 ## 🚀 Skills & Technologies
 ✅ **Programming**: Python (Pandas, NumPy, Seaborn, Matplotlib) </br>
