@@ -26,11 +26,10 @@
 </div>
 
 # About Me
+🔹 Project Engineer with 10+ years of experience in managing high-value projects, cost optimization, and process efficiency, with a strong focus on data analytics for strategic decision-making. </br>
+🔹 Adept at leveraging SQL, Python, Tableau, and Power BI to analyze trends, optimize resource allocation, and drive business insights. </br> 
+🔹 Passionate about transitioning into a full-fledged Data Analyst role, where I can apply my analytical expertise, problem-solving mindset, and industry experience to uncover data-driven solutions and enhance business performance. </br>
 
-🔹 Data Analyst with 10+ years of experience in project management and data-driven decision-making. </br>
-🔹 Skilled in SQL, Python, Tableau and Power BI for analyzing large datasets, optimizing processes, and uncovering actionable insights. </br>
-🔹 Recognized for crafting compelling narratives and fostering cross-functional collaboration among vendors, management, and clients to secure tenders and achieve project success. </br> 
-🔹 Seeking a role where I can leverage data analytics to drive business growth and efficiency. </br>
 
 ## 🚀 Skills & Technologies
 ✅ **Programming**: Python (Pandas, NumPy, Seaborn, Matplotlib) </br>
@@ -75,6 +74,10 @@ GitHub Repo: [GitHub Repository for New York City Buildings Energy Consumption S
 💻 **Total Repositories:** ![GitHub Repositories](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https://api.github.com/users/MDhayalan)  
 ⭐ **Notable Projects:** [Check Here](https://github.com/MDhayalan?tab=repositories)  
 
+📊 **Contributions in the last year:**  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MDhayalan&theme=light)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDhayalan&show_icons=true&theme=light) 
 
 </br>
 </br>
