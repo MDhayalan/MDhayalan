@@ -92,8 +92,8 @@ GitHub Repo: [GitHub Repository for New York City Buildings Energy Consumption S
   <a href="http://www.linkedin.com/in/dhayalan-m-5a97a767">
     <img alt="Dhayalan | LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
   </a></br>
- <a href="mailto:maha.dhaya@gmail.com">
-    <img alt="Dhayalan | Gmail" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+ <a href="mailto:dhaya25@outlook.com">
+    <img alt="Dhayalan | Outlook" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" />
   </a>
   
 </div>
