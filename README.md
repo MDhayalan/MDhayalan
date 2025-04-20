@@ -1,6 +1,6 @@
 <p align="center"><img width="25%" alt="Hello, It's me" src="https://github.com/MDhayalan/MDhayalan/blob/main/hello.png" /></a></p>
 <p align="center"><a href="https://github.com/MDhayalan"><img width="40%" alt=" Hello, It's me Dhayalan, A transformed Business & Data Analyst!" src="https://github.com/MDhayalan/MDhayalan/blob/main/Dhayalan_name2.png" /></a></p>
-<p align="center"><img width="60%" alt="A transformed Business & Data Analyst!" src="https://github.com/MDhayalan/MDhayalan/blob/main/tag_line.png" /></a></p>
+
 <div align="center">
   <img align="center" alt="Python" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
   <img align="center" alt="SQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"/>
@@ -26,17 +26,16 @@
 </div>
 
 # About Me
-🔹 Project Engineer with 10+ years of experience in managing high-value projects, cost optimization, and process efficiency, with a strong focus on data analytics for strategic decision-making. </br>
-🔹 Adept at leveraging SQL, Python, Tableau, and Power BI to analyze trends, optimize resource allocation, and drive business insights. </br> 
-🔹 Passionate about transitioning into a full-fledged Data Analyst role, where I can apply my analytical expertise, problem-solving mindset, and industry experience to uncover data-driven solutions and enhance business performance. </br>
+🔹 I’m a Data Analyst and Project Engineer with 10+ years of experience leading high-impact projects in the Construction, Electrical, and Lighting industries. My background combines deep technical expertise with a strong analytical mindset, enabling me to bridge the gap between engineering execution and data-driven decision-making. </br>
+🔹 I specialize in SQL, Python, Tableau, and Power BI, and have applied these skills to uncover insights, optimize resources, and solve business problems. My recent work includes analyzing customer behavior, market trends, and energy consumption through interactive dashboards and statistical analysis. </br> 
+🔹 I’m passionate about using data to solve real-world challenges, drive business value, and improve everyday experiences. This GitHub showcases my practical projects in analytics and visualization—focusing on clarity, insight, and impact. </br>
 
 
 ## 🚀 Skills & Technologies
-✅ **Programming**: Python (Pandas, NumPy, Seaborn, Matplotlib) </br>
-✅ **Databases**: SQL </br>
-✅ **Data Visualization:** Tableau, Power BI </br>
-✅ **Statistical Analysis:** Hypothesis Testing, Chi-Square, Kruskal-Wallis, Normalization </br>
-✅ **Other Tools:** Excel, VS code, Jupyter Notebook, Google Colab, AutoCAD </br>
+✅ **Data Analytics & BI:** SQL, Tableau (LOD, parameters, advanced dashboarding), Power BI, Excel </br>
+✅ **Programming & Data Manipulation:** Python (Pandas, NumPy, Matplotlib, Seaborn) </br>
+✅ **Statistical Analysis:** A/B Testing, RFM Analysis, Hypothesis Testing </br>
+✅ **Other Tools:** Excel, VS code, Jupyter Notebook, Google Colab, AutoCAD, MS Office </br>
 
 ## 📌 Featured Projects
 ### 📊 E-commerce Data Analysis
