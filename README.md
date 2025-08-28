@@ -26,18 +26,27 @@
 </div>
 
 # About Me
-🔹 I’m a Data Analyst and Project Engineer with 10+ years of experience leading high-impact projects in the Construction, Electrical, and Lighting industries. My background combines deep technical expertise with a strong analytical mindset, enabling me to bridge the gap between engineering execution and data-driven decision-making. </br>
-🔹 I specialize in SQL, Python, Tableau, and Power BI, and have applied these skills to uncover insights, optimize resources, and solve business problems. My recent work includes analyzing customer behavior, market trends, and energy consumption through interactive dashboards and statistical analysis. </br> 
-🔹 I’m passionate about using data to solve real-world challenges, drive business value, and improve everyday experiences. This GitHub showcases my practical projects in analytics and visualization—focusing on clarity, insight, and impact. </br>
+🔹 With a strong background as an Electrical Engineer, I have spent years delivering large-scale projects that required precision, analytical thinking, and problem-solving under real-world constraints. Working at the intersection of engineering and technology gave me a deep appreciation for how data and intelligent systems can transform decision-making and efficiency.</br></br>
+🔹 Building on this foundation, I’ve expanded my expertise into Machine Learning and Data Analysis—developing models for regression, classification, and forecasting, while applying techniques like feature engineering, hyperparameter tuning, and model evaluation. I also work with modern MLOps practices to ensure models are reliable, scalable, and deployment-ready. </br> </br>
+🔹 Today, I bring together the discipline of engineering and the power of machine learning to create practical, data-driven solutions. My goal is to contribute as a Machine Learning Engineer who not only builds models, but also delivers measurable business impact.</br>
 
 
 ## 🚀 Skills & Technologies
+✅ **Machine Learning:** Linear regression, Logistic regression, Polynomial regression, RandomForest, XGB</br>
 ✅ **Data Analytics & BI:** SQL, Tableau (LOD, parameters, advanced dashboarding), Power BI, Excel </br>
 ✅ **Programming & Data Manipulation:** Python (Pandas, NumPy, Matplotlib, Seaborn) </br>
 ✅ **Statistical Analysis:** A/B Testing, RFM Analysis, Hypothesis Testing </br>
 ✅ **Other Tools:** Excel, VS code, Jupyter Notebook, Google Colab, AutoCAD, MS Office </br>
 
 ## 📌 Featured Projects
+### 📊 Insurance Premium Predictor
+🔹 This project leverages machine learning regression models—Linear Regression, Lasso Regression, Ridge Regression, Random Forest, XGBoost, and LightGBM—to predict premium prices with higher accuracy.</br>
+🔹 Through hyperparameter tuning and cross-validation, we benchmarked their performance using the R² score, while feature importance analysis revealed the key drivers influencing outcomes.</br>
+🔹 These insights not only help in choosing the most reliable model but also enable stakeholders to make data-driven pricing decisions and strategic business improvements.</br>
+
+Tableau Dashboard: [Insurance Premium Analysis](https://public.tableau.com/app/profile/m.dhayalan/viz/InsurancePremiumAnalysisandPrediction/SummaryStatisticsDashboard))</br>
+GitHub Repo: [GitHub Repository for Insurance Premium Analysis](https://github.com/MDhayalan/Insurance_Premium_Price_Analysis_-_Prediction)</br>
+
 ### 📊 E-commerce Data Analysis
 🔹 Performed data cleaning, transformation, and exploratory data analysis (EDA) on e-commerce transactions. </br>
 🔹 Built RFM customer segmentation models to classify high-value, at-risk, and loyal customers. </br>
@@ -46,17 +55,6 @@
 
 Tableau Dashboard: [E-Commerce Data Analysis Dashboard](https://public.tableau.com/app/profile/m.dhayalan/viz/ECommerceDataAnalysis/Dashboard1?publish=yes)</br>
 GitHub Repo: [GitHub Repository for E-Commerce Analysis](https://github.com/MDhayalan/ECommerce-Data-Analysis.git)</br>
-
-### 📊 New York City Buildings Energy Consumption Survey
-🔹 Conducted an in-depth analysis of energy consumption data for 13,223 buildings in New York City using Python.</br>
-🔹 Identified patterns in energy consumption across building types and geographies, providing recommendations to improve energy efficiency.</br>
-🔹 Created compelling visualizations using Matplotlib and Seaborn to communicate trends and findings effectively to a non-technical audience.</br>
-🔹 Highlighted inefficiencies in energy use patterns, proposing optimization strategies for cost reduction and improved sustainability.</br>
-🔹 Designed and developed an interactive Tableau dashboard to analyze energy consumption trends and efficiency.</br>
-🔹 Leveraged storytelling techniques in Tableau to present findings effectively.</br>
-
-Tableau Dashboard: [New York City Buildings Energy Consumption Survey Dashboard](https://public.tableau.com/views/EnergyConsumptionandEfficiencyAnalysisofNYCBuildings/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)</br>
-GitHub Repo: [GitHub Repository for New York City Buildings Energy Consumption Survey](https://github.com/MDhayalan/New-York-City-Buildings-Energy-Consumption-Survey.git)</br>
 
 ## 🛠 Soft Skills
 🎯 **Leadership** – Effectively manage teams and collaborate across departments to achieve project goals. </br>
